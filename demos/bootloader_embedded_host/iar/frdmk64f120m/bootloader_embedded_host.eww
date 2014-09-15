@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<workspace>
+  <project>
+    <path>$WS_DIR$\bootloader_embedded_host.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\..\..\..\..\lib\ksdk_platform_lib\iar\K64F12\ksdk_platform_lib.ewp</path>
+  </project>
+  <batchBuild/>
+</workspace>
+
+
