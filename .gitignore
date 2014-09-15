@@ -1,0 +1,5 @@
+/boards
+/filesystem
+/lib
+/platform
+/demos/bootloader_embedded_host/iar/frdmk64f120m
